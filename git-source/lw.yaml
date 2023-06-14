@@ -27,4 +27,4 @@ spec:
       - PruneLast=false
       - Validate=true
       - CreateNamespace=true
-      - ApplyOutOfSyncOnly=true
+      - ApplyOutOfSyncOnly=false
